@@ -14,7 +14,7 @@ function userInput(){
     {
       type: 'input',
       name: 'description',
-      message: 'What sections entitled Description?',
+      message: 'What does this application do?',
     },
     {
       type: 'input',
@@ -35,7 +35,7 @@ function userInput(){
      {
       type: 'input',
       name: 'contribution',
-      message: 'How do I contribute to this application?', 
+      message: 'How can I contribute to this application?', 
     },
     {
       type: 'input',
